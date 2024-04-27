@@ -12,7 +12,7 @@
 
 [Documentation](https://docs.rs/winapi/)
 
-Official communication channel: #windows-dev on the [Rust Community Discord](https://discord.gg/aVESxV8)
+Official communication channel: #windows-dev on the [Rust Community Discord](https://discord.gg/rust-lang-community)
 
 This crate provides raw FFI bindings to all of Windows API. They are gathered by hand using the Windows 10 SDK from Microsoft. I aim to replace all existing Windows FFI in other crates with this crate through the "[Embrace, extend, and extinguish](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)" technique.
 
